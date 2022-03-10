@@ -53,3 +53,11 @@ Test set accuracy: 96.1%
 <img src="/img/linear.PNG" width="600" height="400">
 
 Test set accuracy: 97.97%
+
+<br>
+
+### 5. GUI
+
+[영상](https://drive.google.com/file/d/1hA-VrFX_hM6Q4PVTwOkk26enHDL1A7YA/view?usp=sharing)
+
+[원본 데이터](https://drive.google.com/drive/folders/15cTstzN-4eNG5Cnig6Zt2DkuIxat8eqy?usp=sharing)
